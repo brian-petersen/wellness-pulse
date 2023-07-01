@@ -1,4 +1,21 @@
-# WellnessPulse
+# Wellness Pulse
+
+OPTED FOR GOOGLE SURVEYS INSTEAD. ARCHIVING IN CASE I RETURN TO THIS
+IN THE FUTURE.
+
+Mental health is important! Keeping a pulse on it helps you remain
+objective and on track. If times are tougher than normal, reaching
+for outside help can help.
+
+## Design
+
+Sends out a monthly survey across various topics correlated with
+mental wellness and a sense of well being: self-regulation,
+self-awareness, empathy, purpose, etc.
+
+Survey results are tracked overtime. Can be displayed as a chart.
+
+## Getting Started
 
 To start your Phoenix server:
 
